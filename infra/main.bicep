@@ -60,7 +60,7 @@ param speechServiceLocation string = ''
 param speechServiceName string = ''
 param speechServiceSkuName string // Set in main.parameters.json
 param speechServiceVoice string = ''
-param useGPT4o bool = false
+param useGPT4o bool = true
 
 @allowed(['free', 'provisioned', 'serverless'])
 param cosmosDbSkuName string // Set in main.parameters.json

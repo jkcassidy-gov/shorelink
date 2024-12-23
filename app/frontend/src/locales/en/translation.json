@@ -35,12 +35,12 @@
     "developerSettings": "Developer settings",
 
     "chatEmptyStateTitle": "Chat with Shorelink Bot",
-    "chatEmptyStateSubtitle": "Ask anything or try one of these prompts",
+    "chatEmptyStateSubtitle": "Ask me anything",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "1": "How can I get from Dockyard to Horseshoe Bay?",
+        "2": "What is the quickest service to get from Hamilton to Dockyard?",
+        "3": "It is 9:15am on Friday today. When is the next bus from Dockyard to Hamilton?",
+        "placeholder": "Type a new question (e.g. tell me more about the shorelink service?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
