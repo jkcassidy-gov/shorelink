@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Shorelink AI Assistant",
-    "headerTitle": "Shorelink AI Assistant",
+    "pageTitle": "Project Stanley AI Assistant",
+    "headerTitle": "Project Stanley AI Assistant",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -34,7 +34,7 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with Shorelink Bot",
+    "chatEmptyStateTitle": "Chat with Stanley Data",
     "chatEmptyStateSubtitle": "Ask me anything",
     "defaultExamples": {
         "1": "How can I get from Dockyard to Horseshoe Bay?",

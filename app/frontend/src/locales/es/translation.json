@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "AIDW Accelerator by Ubalabs",
+    "headerTitle": "AIDW Accelerator by Ubalabs",
     "chat": "Chat",
     "qa": "Haz una pregunta",
     "login": "Iniciar sesión",
@@ -34,7 +34,7 @@
     },
     "developerSettings": "Configuración del desarrollador",
 
-    "chatEmptyStateTitle": "Chatea con tus datos",
+    "chatEmptyStateTitle": "Chatea con los datos suministrados",
     "chatEmptyStateSubtitle": "Pregunta cualquier cosa o prueba un ejemplo",
     "defaultExamples": {
         "1": "¿Qué está incluido en mi plan Northwind Health Plus que no está en el estándar?",
