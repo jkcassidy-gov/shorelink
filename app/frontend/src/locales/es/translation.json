@@ -40,7 +40,7 @@
         "1": "¿Qué está incluido en mi plan Northwind Health Plus que no está en el estándar?",
         "2": "¿Qué sucede en una revisión de rendimiento?",
         "3": "¿Qué hace un Gerente de producto?",
-        "placeholder": "Escribe una nueva pregunta (por ejemplo, ¿mi plan cubre exámenes anuales de la vista?)"
+        "placeholder": "Escribe una nueva pregunta (por ejemplo, ¿que es lo nuevo en Azure AI Services?)"
     },
     "askTitle": "Pregunta a tus datos",
     "gpt4vExamples": {

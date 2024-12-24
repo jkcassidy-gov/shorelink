@@ -40,7 +40,7 @@
         "1": "How can I get from Dockyard to Horseshoe Bay?",
         "2": "What is the quickest service to get from Hamilton to Dockyard?",
         "3": "It is 9:15am on Friday today. When is the next bus from Dockyard to Hamilton?",
-        "placeholder": "Type a new question (e.g. tell me more about the shorelink service?)"
+        "placeholder": "Type a new question (e.g. tell me more about the Ignite 2024 event?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
