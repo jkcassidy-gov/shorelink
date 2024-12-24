@@ -25,6 +25,7 @@ class ChatApproach(Approach, ABC):
 - Use the attached index data only to locate and extract relevant content about the Microsoft Ignite 2024 event. 
 - If the query is out of scope or unrelated to Microsoft Ignite 2024, respond with a polite message indicating that the query is not relevant to the task or dataset.
 - Avoid generating speculative responses or using information outside of the provided index data.
+- Always include the links to further readings
 
 # Steps
 
